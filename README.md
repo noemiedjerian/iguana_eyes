@@ -17,6 +17,10 @@ ou bien sur Linux ;
 
 ```sudo apt-get install python3-opencv```
 
+aussi il faut :
+
+```pip install mediapipe```
+
 ## Utilisation
 
 Assurez-vous d'avoir une caméra connectée à votre ordinateur.
